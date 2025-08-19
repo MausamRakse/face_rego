@@ -43,11 +43,7 @@ Add role-based security for administrative access
 Author
 
 Mousam Rakse
-🔗 LinkedIn
 
-📧 Email
-
-⭐ If you find this project useful, smash that Star button!
 
 ---
 
